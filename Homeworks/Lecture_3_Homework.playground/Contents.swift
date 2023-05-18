@@ -1,3 +1,4 @@
+//Lecture 3 Content: conditionals, loops, functions, collections
 
 /*
  Problem Statement:
@@ -47,5 +48,60 @@ let studentThree = (name: "Christina", score: 20)
 // 6. Navdeep got some extra credit! The teacher bumped up his grade in the class from a B to an A. Without creating another dictionary, edit the dictionary from part 5 to replace Navdeep's grade of B with an A
 
 // Your code here:
+
+
+
+
+
+//Lecture 4 Content: enumerations, structs, tuples, closures
+
+
+// This assignment will take us through a hypothetical class arrangement, going through the core concepts of Control-Flow, Loops, and Functions.
+
+
+
+
+/* 1. Write a function that accepts the following parameters:
+1) a tuple of (String, Int) pairs representing a student name and their test score
+2) a threshold score that is needed to pass
+ 
+ Write the body of the function to return either "Pass" or "Fail" depending on whether the score is above the inputted threshold
+ 
+ 
+ Create 3 test inputs and call your function with them.
+ */
+
+
+// Your Code Below:
+
+
+
+
+
+/*
+ 
+ 2. Write a function that accepts an array of Tuples of (String, Int) pairs representing a Name and Test Score of a student, as well as a score threshold, and returns an array of Strings representing the names of the students who passed.
+ 
+ Create 3 test inputs and call your function with them.
+ */
+
+// Your Code Below:
+
+
+
+/*
+ 
+ 3. Write a function that accepts an array of Tuples of (String, Int) pairs representing a Name and Test Score of a student, as well as a score threshold. In the body of the function, write code to filter out tuple values of the input array where the scores were below the given input threshold. Return the filtered array.
+ 
+    Hint: use the built-in Array filter method.
+ 
+ Create 3 test inputs and call your function with them.
+ */
+
+
+// Your Code Below:
+
+
+
 
 
