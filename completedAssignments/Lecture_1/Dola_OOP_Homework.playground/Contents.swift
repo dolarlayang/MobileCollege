@@ -8,7 +8,7 @@ import Foundation
 //      A real world example for using var declaration would be creating a damage indicator for a Battle Royale game so players could see how much damage they output to their enemies to measure their performance. A let declaration in a simular scenario, would be when a player performs a specific ability that does fixed damage.
 
 // 2. Please add the following two items together and store into a variable of type Float
-/*
+
 let x = 10.0
 let y = 3.0
 //let result = x + y
@@ -36,7 +36,6 @@ if var nextIndex = currentIndex{
     nextIndex += 1
     print(nextIndex)
 }
-*/
 
 // Part 2
 /*
